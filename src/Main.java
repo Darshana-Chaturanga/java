@@ -1,3 +1,5 @@
+import Generics.Pair;
+
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
@@ -16,5 +18,6 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
         }
+        Pair<String,Integer> obj3 = new Pair<>("Kasun",22);
     }
 }
