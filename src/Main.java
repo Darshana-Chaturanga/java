@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("Hello and welcome!"); // this line is added from remote
         System.out.println("Hello and welcome!"); // this line is added from local and after creating branch
+        System.out.println("Hello and welcome!"); // this line for terminal test
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
